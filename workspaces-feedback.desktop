@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Send feedback
+Name[fr]=Envoyer en commentaire
+Name[ko]=피드백 보내기
+Name[ja]=フィードバックを送信
+Icon=html
+Exec=xdg-open https://amazonmr.au1.qualtrics.com/jfe/form/SV_6h9dsOuJyKP49nv
